@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: Cryptokiller başlıklı yazıya ait program: Eylül 8, 2015 @ 06:54
+URL: https://www.mertsarica.com/cryptokiller-araci/
+Tool: CryptoKiller
+
 Article: Bilinen Tehditlere Karşı Antivirüslerin Durumu başlıklı yazıya ait program: Haziran 1, 2015 @ 09:00
 URL: https://www.mertsarica.com/bilinen-tehditlere-karsi-antiviruslerin-durumu/
 Tool: Virustotal Mass Uploader
