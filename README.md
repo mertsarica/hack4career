@@ -96,6 +96,10 @@ Article: VAD (Vbulletin Attachment Downloader) başlıklı yazıya ait program: 
 URL: https://www.mertsarica.com/?p=1522
 Tool: VAD (Vbulletin Attachment Downloader)
 
+Article: Kırılası Zayıf Şifreler başlıklı yazıya ait program: Ağustos 14, 2010 @ 20:59
+URL: https://www.mertsarica.com/zararli-siteler-artik-cebinizde/
+Tool: Malicious Site Notifier 
+
 Article: Kırılası Zayıf Şifreler başlıklı yazıya ait program: Ağustos 14, 2010 @ 00:52
 URL: https://www.mertsarica.com/?p=1394
 Tool: Türk Dil Kurumu Sözlük Üreticisi
