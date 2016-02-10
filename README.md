@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: RF Dünyası ve Güvenlik başlıklı yazıya ait program: Şubat 1, 2016 @ 09:02
+URL: https://www.mertsarica.com/rf-dunyasi-ve-guvenlik/
+Tool: Garage Door Brute Forcer
+
 Article: Cryptokiller başlıklı yazıya ait program: Eylül 8, 2015 @ 06:54
 URL: https://www.mertsarica.com/cryptokiller-araci/
 Tool: CryptoKiller
