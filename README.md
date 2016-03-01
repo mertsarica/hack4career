@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: Java Kaynak Kodu Dönüştürücüleri başlıklı yazıya ait program: Mart 1, 2016 @ 09:20
+URL: https://www.mertsarica.com/java-kaynak-kodu-donustuculeri/
+Tool: Allatori Zip Shortener
+
 Article: RF Dünyası ve Güvenlik başlıklı yazıya ait program: Şubat 1, 2016 @ 09:02
 URL: https://www.mertsarica.com/rf-dunyasi-ve-guvenlik/
 Tool: Garage Door Brute Forcer
