@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: IDAPython ile Otomasyon başlıklı yazıya ait program: Ekim 3, 2016 @ 10:00
+URL: https://www.mertsarica.com/idapython-ile-otomasyon/
+Tool: Dubnium String Decoder
+
 Article: Java Kaynak Kodu Dönüştürücüleri başlıklı yazıya ait program: Mart 1, 2016 @ 09:20
 URL: https://www.mertsarica.com/java-kaynak-kodu-donustuculeri/
 Tool: Allatori Zip Shortener
