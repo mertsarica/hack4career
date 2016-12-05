@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: They PWN Houses! başlıklı yazıya ait program: Aralık 5, 2016 @ 10:00
+URL: https://www.mertsarica.com/they-pwn-houses/
+Tool: Dubnium String Decoder
+
 Article: IDAPython ile Otomasyon başlıklı yazıya ait program: Ekim 3, 2016 @ 10:00
 URL: https://www.mertsarica.com/idapython-ile-otomasyon/
 Tool: Dubnium String Decoder
