@@ -2,6 +2,14 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: Tuzak Sistem ile Hacker Avı başlıklı yazıya ait program: Temmuz 3, 2017 @ 09:00
+URL: https://www.mertsarica.com/tuzak-sistem-ile-hacker-avi/
+Tool: SOCAT Connection Tracker
+
+Article: Tuzak Sistem ile Hacker Avı başlıklı yazıya ait program: Temmuz 3, 2017 @ 09:00
+URL: https://www.mertsarica.com/tuzak-sistem-ile-hacker-avi/
+Tool: Telnet Honeypot
+
 Article: Casus Telefon başlıklı yazıya ait program: Mart 1, 2017 @ 09:00
 URL: https://www.mertsarica.com/casus-telefon
 Tool: mSpy Decoder
