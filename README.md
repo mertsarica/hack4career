@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: Tehdit Avı başlıklı yazıya ait program: Ağustos 1, 2017 @ 09:00
+URL: https://www.mertsarica.com/tehdit-avi/
+Tool: Javascript Crawler
+
 Article: Tuzak Sistem ile Hacker Avı başlıklı yazıya ait program: Temmuz 3, 2017 @ 09:00
 URL: https://www.mertsarica.com/tuzak-sistem-ile-hacker-avi/
 Tool: SOCAT Connection Tracker
