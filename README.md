@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: Yara ile Tehdit Avı başlıklı yazıya ait program: Eylül 1, 2017 @ 09:00
+URL: https://www.mertsarica.com/yara-ile-tehdit-avi/
+Tool: Yara Rule for Cryptolocker Detection
+
 Article: Tehdit Avı başlıklı yazıya ait program: Ağustos 1, 2017 @ 09:00
 URL: https://www.mertsarica.com/tehdit-avi/
 Tool: Javascript Crawler
