@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: Balküpü Tespiti başlıklı yazıya ait program: Eylül 1, 2018 @ 09:00
+URL: https://www.mertsarica.com/balkupu-tespiti/
+Tool: Dionaea Honeypot Detector
+
 Article: Yara ile Tehdit Avı başlıklı yazıya ait program: Eylül 1, 2017 @ 09:00
 URL: https://www.mertsarica.com/yara-ile-tehdit-avi/
 Tool: Yara Rule for Cryptolocker Detection
