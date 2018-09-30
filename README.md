@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Mert SARICA's infosec python codes
 
+Article: Sponsorlu Dolandırıcılık başlıklı yazıya ait program: Ekim 1, 2018 @ 09:00
+URL: https://www.mertsarica.com/sponsorlu-dolandiricilik/
+Tool: Phishing Tweet Detector
+
 Article: Balküpü Tespiti başlıklı yazıya ait program: Eylül 1, 2018 @ 09:00
 URL: https://www.mertsarica.com/balkupu-tespiti/
 Tool: Dionaea Honeypot Detector
