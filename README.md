@@ -1,6 +1,6 @@
 # hack4career
 Homepage: https://www.mertsarica.com
-Description: Mert SARICA's infosec python codes
+Description: Cyber Security Researcher Mert SARICA's Python codes
 
 Article: Sponsorlu Dolandırıcılık başlıklı yazıya ait program: Kasım 1, 2018 @ 09:00
 URL: https://www.mertsarica.com/matruska/
