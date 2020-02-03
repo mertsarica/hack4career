@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Cyber Security Researcher Mert SARICA's Python codes
 
+Article: Alan Adı Yönetimi Sarmalı başlıklı yazıya ait program: Kasım 1, 2019 @ 09:00
+URL: https://www.mertsarica.com/alan-adi-yonetimi-sarmali/
+Tool: Expired Domain Checker
+
 Article: Matruşka başlıklı yazıya ait program: Kasım 1, 2018 @ 09:00
 URL: https://www.mertsarica.com/matruska/
 Tool: Gmail Spam Analyzer
