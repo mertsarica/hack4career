@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Cyber Security Researcher Mert SARICA's Python codes
 
+Article: Magecart ile Mücadele başlıklı yazıya ait program: Şubat 1, 2020 @ 09:00
+URL: https://www.mertsarica.com/magecart-ile-mucadele/
+Tool: Suspicious JavaScript Hunter
+
 Article: Alan Adı Yönetimi Sarmalı başlıklı yazıya ait program: Kasım 1, 2019 @ 09:00
 URL: https://www.mertsarica.com/alan-adi-yonetimi-sarmali/
 Tool: Expired Domain Checker
