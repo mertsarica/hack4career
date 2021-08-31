@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Cyber Security Researcher Mert SARICA's Python codes
 
+Article: Kaçabilirsin ama Saklanamazsın başlıklı yazıya ait program: Eylül 1, 2021 @ 09:00
+URL: https://www.mertsarica.com/kacabilirsin-ama-saklanamazsin/
+Tool: AsyncRAT Configuration Extractor
+
 Article: Magecart ile Mücadele başlıklı yazıya ait program: Şubat 1, 2020 @ 09:00
 URL: https://www.mertsarica.com/magecart-ile-mucadele/
 Tool: Suspicious JavaScript Hunter
