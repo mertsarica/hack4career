@@ -2,6 +2,10 @@
 Homepage: https://www.mertsarica.com
 Description: Cyber Security Researcher Mert SARICA's Python codes
 
+Article: Zararlı Görüntü başlıklı yazıya ait program: Aralık 1, 2022 @ 09:00
+URL: https://www.mertsarica.com/zararli-goruntu/
+Tool: Decodes malicious PowerShell scripts encoded with Invoke-PSImage
+
 Article: Çalıntı Kart Avı başlıklı yazıya ait program: Mart 1, 2022 @ 09:00
 URL: https://www.mertsarica.com/calinti-kart-avi/
 Tool: Extract frames from video files for OCR
