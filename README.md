@@ -3,9 +3,7 @@ Homepage: https://www.hack4career.com
 Description: Cyber Security Researcher Mert SARICA's Python codes
 
 Article: Malicious Image (December 1, 2022 @ 09:00)
-
 URL: https://www.hack4career.com/malicious-image/
-
 Tool: Decodes malicious PowerShell scripts encoded with Invoke-PSImage
 
 Article: Stolen Credit Card Hunt (March 1, 2022 @ 09:00)
