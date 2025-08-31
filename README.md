@@ -2,6 +2,13 @@
 Homepage: https://www.hack4career.com
 Description: Cyber Security Researcher Mert SARICA's Python codes
 
+Article: How Are We Getting Phished? (June 27, 2025 @ 09:00)
+URL: https://www.mertsarica.com/how-are-we-getting-phished/
+Tool: Analyzes domain extensions from CSV file and creates pie chart visualization
+Tool: Domain Typosquatting Analyzer
+Tool: Identifies what information the phishing site steals.
+Tool: Analyzes CSV files containing domain paths to detect brand names and typosquatting attempts.
+
 Article: Malicious Image (December 1, 2022 @ 09:00)
 URL: https://www.hack4career.com/malicious-image/
 Tool: Decodes malicious PowerShell scripts encoded with Invoke-PSImage
